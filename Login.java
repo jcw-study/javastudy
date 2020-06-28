@@ -4,11 +4,9 @@ public class Login {
 
 	public static void main(String[] args) {
 		System.out.println("10.로그인 기능을 구현하세요");
-		//저장된 아이디 : 'green'
-		//저장된 비밀번호: 'gr1234'
 
-		String id = "green";
-		String pwd = "gr1234";
+		String id = "pink";
+		String pwd = "pn1234";
 
 		Scanner in = new Scanner(System.in);
 
