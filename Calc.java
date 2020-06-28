@@ -1,9 +1,9 @@
 public class Calc {
 
 	public static void main(String[] args) {
-		int a = 3;
-		int b = 5;
-		int sum = a +b ;
+		int num1 = 3;
+		int num2 = 5;
+		int sum = num1 +num2 ;
 		
 		System.out.println("합계 : "+sum);
 
