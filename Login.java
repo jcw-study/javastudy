@@ -5,8 +5,8 @@ public class Login {
 	public static void main(String[] args) {
 		System.out.println("10.로그인 기능을 구현하세요");
 
-		String id = "pink";
-		String pwd = "pn1234";
+		String id = "red";
+		String pwd = "red1234";
 
 		Scanner in = new Scanner(System.in);
 
