@@ -3,13 +3,13 @@ public class git{
 	public static void main(String[] args) {
 		int num1 = 3;
 		int num2 = 5;
-		int result = adder(num1,num2);
-		System.out.println("합계 : "+result);
+		int sum = adder(num1,num2);
+		System.out.println("합계 : "+sum);
 	}
 	private static int adder(int num1, int num2) {
-		int result;
-		result = num1 + num2;
-		return result;
+		int sum;
+		sum = num1 + num2;
+		return sum;
 	}
 
 }
