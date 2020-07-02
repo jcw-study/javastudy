@@ -10,6 +10,7 @@ public class git{
 		int sum;
 		sum = num1 + num2;
 		return sum;
+
 	}
 
 }
